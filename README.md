@@ -47,7 +47,7 @@ through data.
     
  
   
- 🌍 - Connect with me:
+ 📫 - Connect with me:
 - 👥LinkedIn:Ikongbeh Onyeche Jane
 - 💻Github: github.com/Onyeche69 
   
