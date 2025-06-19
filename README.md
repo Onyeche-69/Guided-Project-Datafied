@@ -1,2 +1,2 @@
 # Guided-Project-Datafied
-This Repositry contains all Guided projects where i analyze sample dataset using Google Sheets.
+This Repositry contains all Guided projects where i analyze sample dataset using Google Sheets and SQL.
